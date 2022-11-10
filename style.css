@@ -1,0 +1,33 @@
+table {
+    width: 40%;
+}
+
+table, th, tr, td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+#coluna1 {
+    width: 50%;
+}
+
+#coluna2 {
+    width: 30%;
+}
+
+#coluna3 {
+    width: 20%;
+}
+
+#linha4{
+    text-decoration: line-through;
+}
+
+#area {
+    font-size: 30px;
+    width: fit-content;
+    height: 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, green, blue);
+    box-shadow: 10px 5px 5px black;
+}
